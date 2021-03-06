@@ -2,8 +2,8 @@ My Website Project :D
 
 Ubuntu 18.04
 
-Python3 automatically installed on Ubuntu 18.04
-
-sudo apt-get install python3-venv
-
-sudo apt-get install python3-pip
+Python3 automatically installed on Ubuntu 18.04:
+  - sudo apt-get install python3-venv
+  - sudo apt-get install python3-pip
+  - source venv/bin/activate
+  - pip3 install -r requirements.txt
